@@ -27,3 +27,4 @@ This is a reusable modal component implemented using Vue.js. The component provi
 ### Install the necessary dependencies:
 ``` npm install vue ``` <br>
 
+
