@@ -14,6 +14,7 @@ function popupCloseButton() {
   <div class="h-screen flex items-center justify-center">
     <VButton @click="popupEditToogle = !popupEditToogle">open v
       modal</VButton>
+      <VolkiButton>hahaha</VolkiButton>
   </div>
   <VModal :open="popupEditToogle" @close="popupCloseButton()">
     <template #default>
